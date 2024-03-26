@@ -1,0 +1,70 @@
+html {
+    font-size: 10px;
+  }
+  
+  body {
+    font-family: 'Roboto', Montserrat, Lotto, Noto Sans JP, Arial;
+    font-size: 1.5rem;
+    line-height: 2;
+    text-align: center;
+    color: rgb(108, 67, 10);
+    margin: 0;
+  }
+  
+  img {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: auto;
+  }
+  
+  h1 {
+    font-size: 3rem;
+    margin-bottom: 0;
+  }
+  
+  h2 {
+    font-size: 2rem;
+  }
+  
+  a {
+    color: #6a64ff;
+  }
+  
+  a:visited {
+    color: #931fc4;
+  }
+  
+  #main {
+    margin: 40px 10px;
+    padding: 20px;
+    border-radius: 10px;
+    background: rgb(242, 239, 225);
+  }
+  
+  #img-div {
+    background: rgb(255, 255, 255);
+    border-radius: 20px;
+    padding: 10px;
+    margin: 20;
+  }
+  
+  #img-caption {
+    margin: 15px 0 5px 0;
+  }
+  
+  #header2 {
+    margin: 50px 0;
+    text-align: center;
+  }
+  
+  ul {
+    max-width: 550px;
+    margin: 0 auto 55px auto;
+    text-align: left;
+    line-height: 2;
+  }
+  
+  li {
+    margin: 12px 0;
+  }
